@@ -1,14 +1,14 @@
-Первое задание:
+Первая программа:
 ```
 gcc -o f getProcessID.c && ./f
 ```
 
-Второе задание: 
+Вторая прорамма: 
 ```
 gcc -o s selfcopy.c && ./s
 ```
 
-Третье задание: 
+Третья программа: 
 ```
 gcc -o c execChild.c && gcc -o p execParent.c && ./p
 ```
